@@ -1,2 +1,2 @@
-# swift-MyRestaurants
+# MyRestaurants
 Swift Project MyRestaurants
